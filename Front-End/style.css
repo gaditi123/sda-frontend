@@ -1,0 +1,50 @@
+body{
+    position: relative;
+}
+
+
+.navbar{
+    padding: 0 50px;
+    height: 80px;
+    background-color: transparent;
+}
+
+
+
+.form-inline{
+    padding-right: 100px;
+}
+
+.navbar-nav{
+    margin-left: 100px;
+}
+
+.navbar-brand img{
+
+    height: 70px;
+}
+
+.home{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.295),rgba(0, 0, 0, 0.158)), url("flower.jpg");
+    height: 100vh;
+    background-size: cover;
+    background-attachment: fixed;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
