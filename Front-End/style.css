@@ -31,7 +31,19 @@ body{
     background-attachment: fixed;
     
 }
-
+.img-responsive{
+    margin-left: 15%;
+}
+.display-5{
+    margin-left: 25%;
+}
+.card{
+    margin-left: 8%;
+    margin-bottom: 2%;
+}
+.card-deck{
+    margin-left: 20%;
+}
 
 
 
